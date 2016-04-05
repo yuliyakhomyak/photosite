@@ -1,0 +1,86 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    height: 100%;
+    background: #dddfd4;
+}
+#title {
+    font-family: 'Bad Script', cursive;
+    font-weight: 300; 
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #3fb0ac;
+    color: #173e43;
+}
+.heading {
+    font-family: 'Bad Script', cursive;
+    font-weight: 100; 
+    font-size: 30px;
+    color: #173e43;
+}
+
+header {
+    border-bottom: 1px solid #3fb0ac;
+}
+.center {
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    list-style-position: inside;
+    padding: 10px;
+}
+.topmenu li {
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 0;
+    font-family: 'Bad Script';
+    font-weight: 100; 
+    font-size: 25px;
+    color: #3fb0ac;
+}
+section {
+    min-height: 100%;
+}
+#juli-photo {
+    display: inline-block;
+    float: left;
+}
+#text-about {
+    display: block;
+     float: left;
+     margin-left: 350px;
+     margin-right: 20px;
+}
+p {
+    font: 15px Arial, sans-serif;
+    color: #696969;
+}
+footer {
+    height: 80px;
+    position: relative;
+    top: -80px;
+    background: #173e43;
+}
+.push50 {
+    height: 50px;
+}
+.social-link {
+    text-decoration: none;
+    font-family: 'Righteous', cursive;
+    font-weight: 800; 
+    font-size: 50px;
+    color: #3fb0ac;
+}
+
+.phone {
+    font-family: 'Bad Script', cursive;
+    font-weight: 100; 
+    font-size: 25px;
+    color: #fae596;
+}
